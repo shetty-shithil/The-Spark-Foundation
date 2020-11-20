@@ -45,6 +45,6 @@ plt.show()
 x=([[9.25]])
 y=regressor.predict(x)
 
-"""Anwswer"""
+"""Answer"""
 print(y)
 
